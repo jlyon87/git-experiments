@@ -1,1 +1,2 @@
 Hi, I'm file c.
+Adding feature-03 to file c.
