@@ -1,4 +1,5 @@
 Hi, I'm file c.
 Adding feature-03 to file c.
+I forgot my tests for feature-03, too.
 Adding feature-04 to file c.
 Woops I forgot to write my unit tests for feature-04.
