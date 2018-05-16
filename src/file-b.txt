@@ -1,3 +1,4 @@
 Hi, I'm file b.
 Adding feature-02 to file b.
+Adding feature-05 to file b.
 Adding feature-06 to file b.
